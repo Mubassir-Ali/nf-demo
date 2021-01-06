@@ -1,0 +1,41 @@
+.App{
+  width: 100%;
+  height: auto;
+  
+   
+  
+}
+
+.card{
+  width: 20%;
+
+  float: left;
+  
+  
+}
+
+.card_img{
+  width: 230px;
+  height: auto;
+  
+  
+}
+
+.card_info{
+  width: 230px;
+  text-align: center;
+  
+  
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+  
+}
+
+.heading{
+  background-color: #fff;
+  color: #868686;
+
+}
